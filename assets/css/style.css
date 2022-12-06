@@ -1586,3 +1586,11 @@ section {
   width: 80%;
   margin: auto;
 }
+
+.contact-us-text {
+  text-align: left;
+  /* background-color: rebeccapurple; */
+  margin-bottom: -40px;
+  padding: 5px;
+  font-size: 24px;
+}
