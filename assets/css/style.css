@@ -1571,3 +1571,18 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.Bolo_Header {
+  font-family: 'Roboto Sla', serif;
+  font-size: 5rem !important;
+}
+
+.Bolo_subHearder {
+  font-family: 'Roboto Sla', serif;
+  font-size: 2rem !important;
+}
+
+.Bolo_Event {
+  font-family: 'Roboto Sla', serif;
+  font-size: 1.5rem;
+}
