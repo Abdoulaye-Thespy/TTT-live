@@ -1596,25 +1596,6 @@ section {
   font-size: 24px;
 }
 
-@media screen and (max-width: 962px) {
-}
-
-@media screen and (max-width: 480px) {
-  .Bolo_Header {
-    font-size: 30px !important;
-  }
-
-  .Bolo_subHearder {
-    font-size: 20px !important;
-  }
-  .roboto-font-size {
-    font-size: 10px !important;
-  }
-  #logo {
-    width: 120px !important;
-  }
-}
-
 .roboto-font-size {
   font-family: 'Roboto Sla', serif !important;
   font-size: 25px !important;
@@ -1633,4 +1614,23 @@ section {
 #logo {
   width: 200px;
   /* object-fit: contain; */
+}
+
+@media screen and (max-width: 962px) {
+}
+
+@media screen and (max-width: 480px) {
+  .Bolo_Header {
+    font-size: 30px !important;
+  }
+
+  .Bolo_subHearder {
+    font-size: 20px !important;
+  }
+  .roboto-font-size {
+    font-size: 18px !important;
+  }
+  #logo {
+    width: 120px !important;
+  }
 }
