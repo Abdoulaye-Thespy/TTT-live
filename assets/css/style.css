@@ -1620,3 +1620,8 @@ section {
   font-family: 'Roboto Sla', serif !important;
   font-size: 20px !important;
 }
+
+#logo {
+  width: 200px;
+  /* object-fit: contain; */
+}
