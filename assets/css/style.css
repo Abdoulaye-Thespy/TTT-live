@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   /* font-family: "Open Sans", sans-serif; */
-  /* font-family: 'Roboto Sla', serif; */
+  font-family: 'Roboto Sla', serif;
   color: #444444;
 }
 
@@ -1607,7 +1607,7 @@ section {
 }
 
 .roboto-font-size {
-  font-family: "Open Sans", sans-serif !important;
+  font-family: 'Roboto Sla', serif !important;
   font-size: 25px !important;
 }
 
@@ -1617,6 +1617,6 @@ section {
 }
 
 .roboto-font-size-medium {
-  font-family: "Open Sans", sans-serif !important;
+  font-family: 'Roboto Sla', serif !important;
   font-size: 20px !important;
 }
