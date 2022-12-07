@@ -1612,7 +1612,7 @@ section {
 }
 
 #logo {
-  width: 200px;
+  width: 250px;
   /* object-fit: contain; */
 }
 
@@ -1631,6 +1631,6 @@ section {
     font-size: 18px !important;
   }
   #logo {
-    width: 120px !important;
+    width: 150px !important;
   }
 }
