@@ -9,7 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  /* font-family: 'Roboto Sla', serif; */
   color: #444444;
 }
 
@@ -1593,4 +1594,14 @@ section {
   margin-bottom: -40px;
   padding: 5px;
   font-size: 24px;
+}
+
+@media screen and (max-width: 480px) {
+  .Bolo_Header {
+    font-size: 30px !important;
+  }
+
+  .Bolo_subHearder {
+    font-size: 20px !important;
+  }
 }
