@@ -6,7 +6,7 @@ Welcome to The African Think Tank! This is a simple website built using HTML, CS
 
 ## Deployed Branch
 
-The `main` branch is the deployed branch and any changes pushed to it will be automatically deployed to the live version of the website.
+The `master` branch is the deployed branch and any changes pushed to it will be automatically deployed to the live version of the website.
 
 ## Usage
 
